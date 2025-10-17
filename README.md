@@ -80,23 +80,7 @@ Berikut beberapa proyek yang paling relevan dan rapi untuk dilihat cepat.
 
 ---
 
-### 🧩 Cara Pakai (Profile README)
-1. Buat repository publik bernama **ikhsanudin017** (harus sama dengan username GitHub).
-2. Tambahkan file `README.md` dan isi dengan konten di halaman ini.
-3. Aktifkan “pin” untuk proyek-proyek terbaik (sudah kamu lakukan 👍).
-4. (Opsional) Tambahkan **GitHub Actions** untuk update otomatis “recent activity”.
 
-> Butuh versi bahasa Inggris juga? Scroll ke bawah 👇
-
----
-
-## 🇬🇧 Short English Version
-
-**Hi, I’m Ikhsanudin.** I enjoy building clean, useful web things—frontends, dashboards, and small automations.  
-**Tech:** TypeScript, Vue, HTML/Blade, a bit of Python.  
-**2025 Focus:** ship 3 open-source mini projects + weekly commits.  
-**Open to:** small/medium collaborations—landing pages, dashboards, forms/surveys.  
-**Contact:** email/LinkedIn/Instagram (links above).
 
 ---
 
