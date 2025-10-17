@@ -78,11 +78,7 @@ Berikut beberapa proyek yang paling relevan dan rapi untuk dilihat cepat.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikhsanudin-ikhsan-6b26ab2b8/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/i_can017/?hl=en)
 
----
 
-
-
----
 
 <div align="center">
   
