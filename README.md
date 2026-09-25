@@ -1,87 +1,262 @@
 <div align="center">
-  
-# 👋 Halo, saya **Ikhsanudin** (@ikhsanudin017)
 
-_Success is the sum of small efforts, repeated day in and day out._
+# 👋 Hi, I'm **Ikhsanudin**
 
-<img src="https://komarev.com/ghpvc/?username=ikhsanudin017&label=Profile%20views&style=flat" alt="profile views" />
+### Web Developer • Frontend Enthusiast • Data & Automation Explorer
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3178C6&center=true&vCenter=true&width=650&lines=Building+Simple+%26+Useful+Web+Experiences;Frontend+%7C+Dashboard+%7C+Automation;TypeScript+%7C+Vue+%7C+Python;Always+Learning.+Always+Building." alt="Typing SVG" />
 
----
+<br>
 
-## 🚀 Tentang Saya
-- 💼 Web developer yang suka bikin hal **sederhana tapi bermanfaat**.
-- 🧠 Tertarik pada **frontend**, **dashboard data**, dan **otomasi ringan**.
-- 💬 Suka **TypeScript, Vue, HTML/Blade**, dan eksplor **Python** untuk data.
-- 🎯 Target 2025: rilis 3 mini-proyek open source & konsisten kontribusi setiap minggu.
-- 📝 Motto kerja: _Sedikit tapi rutin, hasilnya kelihatan._
+<img src="https://komarev.com/ghpvc/?username=ikhsanudin017&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
 
----
-
-## 🧰 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=vue.js&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-FF2D20?logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 📌 Proyek Sorotan
-Berikut beberapa proyek yang paling relevan dan rapi untuk dilihat cepat.
-
-- **Dashboard_Prediksi_Harga_Emas** — visualisasi tren harga emas + prediksi dasar  
-  🔗 Repo: [ikhsanudin017/Dashboard_Prediksi_Harga_Emas](https://github.com/ikhsanudin017/Dashboard_Prediksi_Harga_Emas)
-
-- **Web_Laporan_Aktivitas_Harian_KE** — template laporan aktivitas harian (HTML)  
-  🔗 Repo: [ikhsanudin017/Web_Laporan_Aktivitas_Harian_KE](https://github.com/ikhsanudin017/Web_Laporan_Aktivitas_Harian_KE)
-
-- **website_rtq** — website berbasis TypeScript (front-end ringan)  
-  🔗 Repo: [ikhsanudin017/website_rtq](https://github.com/ikhsanudin017/website_rtq)
-
-- **web_survey_ke** — aplikasi survei web (TypeScript)  
-  🔗 Repo: [ikhsanudin017/web_survey_ke](https://github.com/ikhsanudin017/web_survey_ke)
-
-- **ikhsanudin_portofolio_responsi** — portofolio (Vue)  
-  🔗 Repo: [ikhsanudin017/ikhsanudin_portofolio_responsi](https://github.com/ikhsanudin017/ikhsanudin_portofolio_responsi)
-
-> Mau menampilkan project lain? Cukup tambahkan bullet seperti contoh di atas.
-
----
-
-## 📊 Stats & Streak
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikhsanudin017&show_icons=true&hide_title=true&count_private=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanudin017&layout=compact&langs_count=8)
-  
-![Streak](https://streak-stats.demolab.com?user=ikhsanudin017)
+<img src="https://img.shields.io/github/followers/ikhsanudin017?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
 
 </div>
 
 ---
 
-## 🗓️ Aktivitas & Rencana
-- ✅ Konsisten commit tiap minggu (lihat contribution graph di profil).
-- 🧩 Open to collaboration untuk proyek kecil–menengah: landing page, dashboard, web form/survey.
-- 📣 Kalau kamu pakai salah satu repo-ku, kasih tahu ya—biar bisa aku maintain lebih rajin.
+## 👨‍💻 About Me
+
+```ts
+const ikhsanudin = {
+    role: "Web Developer",
+    focus: [
+        "Frontend Development",
+        "Dashboard & Data Visualization",
+        "Web Applications",
+        "Lightweight Automation"
+    ],
+    currentlyLearning: [
+        "TypeScript",
+        "Vue.js",
+        "Python",
+        "Modern Web Development"
+    ],
+    philosophy: "Sedikit tapi rutin, hasilnya kelihatan."
+};
+```
+
+- 🚀 Suka membangun aplikasi yang **simple, clean, dan bermanfaat**
+- 💻 Fokus pada **Web Development & Frontend**
+- 📊 Tertarik dengan **Dashboard, Data Visualization & Automation**
+- 🧠 Senang eksplorasi teknologi dan workflow baru
+- 🤝 Terbuka untuk **kolaborasi proyek & open source**
+- 🎯 Target 2026: membangun lebih banyak project nyata dan konsisten berkontribusi di GitHub
 
 ---
 
-## 📫 Kontak
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ikhsankuliah017@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikhsanudin-ikhsan-6b26ab2b8/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/i_can017/?hl=en)
+## 🛠️ Tech Stack
 
+### 🌐 Frontend
 
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,vue" />
+
+</p>
+
+### ⚙️ Backend & Data
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=laravel,python" />
+
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Dashboard Prediksi Harga Emas
+
+Dashboard untuk visualisasi tren harga emas dan prediksi data secara sederhana.
+
+**Focus:**  
+`Dashboard` `Data Visualization` `Prediction`
+
+🔗 [View Repository](https://github.com/ikhsanudin017/Dashboard_Prediksi_Harga_Emas)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📋 Web Laporan Aktivitas Harian KE
+
+Website untuk membantu pencatatan dan pengelolaan laporan aktivitas harian.
+
+**Focus:**  
+`HTML` `Web App` `Productivity`
+
+🔗 [View Repository](https://github.com/ikhsanudin017/Web_Laporan_Aktivitas_Harian_KE)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Website RTQ
+
+Website berbasis TypeScript dengan fokus pada tampilan frontend yang ringan dan responsif.
+
+**Focus:**  
+`TypeScript` `Frontend` `Responsive Web`
+
+🔗 [View Repository](https://github.com/ikhsanudin017/website_rtq)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Web Survey KE
+
+Aplikasi web untuk membuat dan mengelola kebutuhan survei secara digital.
+
+**Focus:**  
+`TypeScript` `Survey` `Web Application`
+
+🔗 [View Repository](https://github.com/ikhsanudin017/web_survey_ke)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Portfolio Website
+
+Website portfolio pribadi yang dibangun menggunakan Vue.
+
+**Focus:**  
+`Vue.js` `Portfolio` `Frontend`
+
+🔗 [View Repository](https://github.com/ikhsanudin017/ikhsanudin_portofolio_responsi)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔨 More Projects Coming Soon
+
+Saya terus mengembangkan project baru seputar web development, dashboard, automation, dan eksperimen teknologi.
+
+**Status:**  
+`Learning` `Building` `Improving`
+
+⭐ Stay tuned!
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  
-> _“Success is the sum of small efforts, repeated day in and day out.”_
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ikhsanudin017&show_icons=true&hide_title=true&count_private=true&include_all_commits=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsanudin017&layout=compact&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ikhsanudin017" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhsanudin017&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🌐 Membangun berbagai **web application**
+- 📊 Mengembangkan **dashboard & data visualization**
+- ⚡ Eksplorasi **automation dengan Python**
+- 🎨 Meningkatkan kemampuan **UI/UX & frontend**
+- 🧩 Membuat mini project untuk memperkuat portfolio
+- 🌱 Konsisten belajar dan melakukan eksperimen teknologi baru
+
+---
+
+## 🤝 Open For Collaboration
+
+Saya terbuka untuk berkolaborasi dalam project:
+
+- 🌐 Landing Page
+- 💼 Company Profile
+- 👨‍💻 Portfolio Website
+- 📊 Dashboard
+- 📝 Web Form & Survey
+- ⚡ Web Automation
+- 🧩 Mini Web Application
+
+Punya ide menarik?
+
+**Let's build something useful together. 🚀**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:ikhsankuliah017@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ikhsanudin-ikhsan-6b26ab2b8/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/i_can017/?hl=en">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ikhsanudin017">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Keep Learning • Keep Building • Keep Improving
+
+*"Success is the sum of small efforts, repeated day in and day out."*
+
+<br>
+
+**Thanks for visiting my profile! 👋**
+
+⭐ **Feel free to explore my repositories**
 
 </div>
